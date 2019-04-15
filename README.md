@@ -1,6 +1,8 @@
 # sqliteflutter
+![Codigo Alpha Flutter]
+![alt text](https://github.com/codigoalphacol/FlutterSQLite/blob/master/lib/assets/images/databasesqlite.png) 
 
-A new Flutter project.
+Please suscribe canal Youtube: https://youtu.be/sj9giQhnJec
 
 ## Getting Started
 
